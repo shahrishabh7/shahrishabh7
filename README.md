@@ -7,4 +7,4 @@ I previously worked as a Full Stack developer at Roku and HubSpot. I graduated f
 Some of my hobbies include hacking projects, working out, playing 2k, reading, investing in real estate, watching the Dallas Cowboys, and playing chess.
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahrishabh7&theme=light)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shahrishabh7&mode=weekly)](https://git.io/streak-stats)
