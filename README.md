@@ -6,5 +6,5 @@ I previously built developer tools and full-stack applications at [Roku](https:/
 
 Some of my hobbies include hacking projects, working out, reading, playing 2k, investing in real estate, watching the Dallas Cowboys, and playing chess.
 
-### :fire: My Stats :
+### My Stats 🔥 :
 [![GitHub Streak](https://streak-stats.demolab.com?user=shahrishabh7&mode=weekly)](https://git.io/streak-stats)
